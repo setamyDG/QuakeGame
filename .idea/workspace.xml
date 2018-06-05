@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a00eed00-f876-44d6-b634-e0a3a42cbb10" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ClientServerApp/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/src/Client/Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/src/Client/Dc.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/src/Client/LLibrary.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/src/Client/Main.java" afterPath="$PROJECT_DIR$/../ClientServerApp/src/Client/Main.java" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/src/Client/Menu.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerApp/src/Client/Window.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerGUI.rar" afterPath="$PROJECT_DIR$/../ClientServerGUI.rar" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerGUI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ClientServerGUI/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerGUI/out/production/ClientServerGUI/Clients/Main.class" afterPath="$PROJECT_DIR$/../ClientServerGUI/out/production/ClientServerGUI/Clients/Main.class" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerGUI/out/production/ClientServerGUI/Server/Main.class" afterPath="$PROJECT_DIR$/../ClientServerGUI/out/production/ClientServerGUI/Server/Main.class" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerGUI/src/Clients/Main.java" afterPath="$PROJECT_DIR$/../ClientServerGUI/src/Clients/Main.java" />
+      <change beforePath="$PROJECT_DIR$/../ClientServerGUI/src/Server/Main.java" afterPath="$PROJECT_DIR$/../ClientServerGUI/src/Server/Main.java" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/.name" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/libraries/mysql_connector_java_5_1_40_bin.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/uiDesigner.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/Daniel Gola.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/components/Button$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/components/Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/components/Label.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/components/Movie$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/components/Movie.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/components/Window.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/engine/Initialize.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/engine/Main.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/engine/Menu.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/library/Dc.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/library/Library.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/library/Timer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/AchievmentsDoom1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/BackDoom1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/HelpOptionsDoom1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/LeaderBoardsDoom1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/MenuD1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/MultiPlayerDoom1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom1Buttons/SinglePlayerDoom1Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/BackDoom2016Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Campaign/CampaignButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Campaign/CreditsButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Campaign/StartCampaignButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Campaign/seeMore.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/MenuD2016Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Multiplayer/AchieviementMultiplayerButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Multiplayer/MultiPlayerDoom2016Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Multiplayer/RankingsMultiplayerButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/Multiplayer/StartMultiPlayerButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/SnapMap/CreateSnapMapButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/SnapMap/LoadSnapMapButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/SnapMap/SeeBestMapButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/SnapMap/SnapMapButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom2016Buttons/StaticButtons.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom3Buttons/BackDoom3Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom3Buttons/MenuD3Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/Doom3Buttons/StartDoom3Button.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/buttons/IntroSkipButton.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/movies/IntroMovie.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/movies/MenuBackgroundMovie.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/menu/movies/NextSceneMovieD3.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/$$JetTHM$$.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/FINALnoSCENE2.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/SCENE.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/achiev.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/achiev2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/buttonClick.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/createsnapmap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/createsnapmap2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/d33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom1.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom1.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom1menu.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom2016.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom2016scene2.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom2016song.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom2k16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom3.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/doom3menu.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/font.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/font2.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/font3.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/font4.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/fontDoom2016.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/helmet2 (2).png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/helmet2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/loadsnapmap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/loadsnapmap2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/m1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/m11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/nextScene.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/rankings.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/rankings2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/readmoresnap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/readmoresnap2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/skull.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/skull2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/song.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/uac.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/resources/uac2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/out/production/Daniel Gola/todo.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/components/Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/components/Label.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/components/Movie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/components/Window.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/engine/Initialize.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/engine/Main.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/engine/Menu.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/library/Dc.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/library/Library.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/library/Timer.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/AchievmentsDoom1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/BackDoom1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/HelpOptionsDoom1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/LeaderBoardsDoom1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/MenuD1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/MultiPlayerDoom1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom1Buttons/SinglePlayerDoom1Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/BackDoom2016Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Campaign/CampaignButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Campaign/CreditsButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Campaign/StartCampaignButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Campaign/seeMore.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/MenuD2016Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Multiplayer/AchieviementMultiplayerButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Multiplayer/MultiPlayerDoom2016Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Multiplayer/RankingsMultiplayerButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/Multiplayer/StartMultiPlayerButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/SnapMap/CreateSnapMapButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/SnapMap/LoadSnapMapButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/SnapMap/SeeBestMapButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/SnapMap/SnapMapButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom2016Buttons/StaticButtons.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom3Buttons/BackDoom3Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom3Buttons/MenuD3Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/Doom3Buttons/StartDoom3Button.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/buttons/IntroSkipButton.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/movies/IntroMovie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/movies/MenuBackgroundMovie.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/menu/movies/NextSceneMovieD3.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/$$JetTHM$$.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/FINALnoSCENE2.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/SCENE.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/achiev.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/achiev2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/buttonClick.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/createsnapmap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/createsnapmap2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d12.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d22.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/d33.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom1.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom1.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom1menu.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom2016.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom2016scene2.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom2016song.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom2k16.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom3.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom3.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/doom3menu.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/font.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/font2.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/font3.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/font4.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/fontDoom2016.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/helmet2 (2).png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/helmet2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/loadsnapmap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/loadsnapmap2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/m1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/m11.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/nextScene.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/rankings.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/rankings2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/readmoresnap.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/readmoresnap2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/skull.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/skull2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/song.mp3" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/uac.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/resources/uac2.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../DoomApp/src/todo.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../GUIthreadsGUI/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/Main.class" afterPath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/Main.class" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (1).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (10).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (11).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (12).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (13).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (14).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (15).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (16).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (17).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (2).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (3).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (4).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (5).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (6).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (7).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (8).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/out/production/GUIthreadsGUI/tests/TestFile (9).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (1).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (10).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (11).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (12).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (13).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (14).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (15).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (16).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (17).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (2).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (3).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (4).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (5).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (6).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (7).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (8).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../GUIthreadsGUI/src/tests/TestFile (9).txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../Gra2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Gra2/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../SCGUI2/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$1.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$1.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$2.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$2.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$3.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$3.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$4.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$4.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$5.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$5.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$6.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$6.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$7.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$7.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$8.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame$8.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/client_frame.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$1.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$1.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$2.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$2.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$3.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$3.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$4.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$4.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$5.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame$5.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame.class" afterPath="$PROJECT_DIR$/../SCGUI2/out/production/SCGUI/server_frame.class" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/src/client_frame.java" afterPath="$PROJECT_DIR$/../SCGUI2/src/client_frame.java" />
+      <change beforePath="$PROJECT_DIR$/../SCGUI2/src/server_frame.java" afterPath="$PROJECT_DIR$/../SCGUI2/src/server_frame.java" />
+      <change beforePath="$PROJECT_DIR$/../StartGame/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StartGame/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../StartGame2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StartGame2/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../StartGame3/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../StartGame3/.idea/workspace.xml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CreditsButton.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/buttons/CreditsButton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Button.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/components/Button.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Label.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Label.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Menu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/engine/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="101" column="5" lean-forward="false" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+              <folding>
+                <element signature="e#1626#1627#0" expanded="true" />
+                <element signature="e#1653#1654#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Item</find>
+      <find>.mp4</find>
+      <find>btnstartgamed</find>
+      <find>btnstartgamea</find>
+      <find>movie</find>
+      <find>mediaplayer2</find>
+      <find>mediaplayer5</find>
+      <find>offs</find>
+      <find>daniel gola</find>
+      <find>menutext</find>
+      <find>daniel Gola</find>
+      <find>selec</find>
+      <find>txt</find>
+      <find>view</find>
+      <find>btnchangewn</find>
+      <find>image</find>
+      <find>option</find>
+      <find>play</find>
+      <find>nrl</find>
+      <find>select</find>
+      <find>stac</find>
+      <find>stack</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/buttons/startGame/StartGameButtonV.java" />
+        <option value="$PROJECT_DIR$/src/buttons/startGame/StartGameButtonD.java" />
+        <option value="$PROJECT_DIR$/src/buttons/startGame/StartGameButtonA.java" />
+        <option value="$PROJECT_DIR$/src/buttons/startGame/StartGameButtonN.java" />
+        <option value="$PROJECT_DIR$/src/buttons/startGame/StartGameButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/AnarkiButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/BackGameButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/BackOptionsButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/ChangeWeaponButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/DoomButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/ExitButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/NoExitButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/OptionsButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/SoundButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/StartGameButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/VideoButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/VisorButton.java" />
+        <option value="$PROJECT_DIR$/src/engine/Label.java" />
+        <option value="$PROJECT_DIR$/src/engine/Movie.java" />
+        <option value="$PROJECT_DIR$/src/library/Button.java" />
+        <option value="$PROJECT_DIR$/src/library/Window.java" />
+        <option value="$PROJECT_DIR$/src/oldGame/GameMenuDemo.java" />
+        <option value="$PROJECT_DIR$/src/oldGame/MenuButton.java" />
+        <option value="$PROJECT_DIR$/src/oldGame/MenuButtonChampion.java" />
+        <option value="$PROJECT_DIR$/src/oldGame/MenuDesc.java" />
+        <option value="$PROJECT_DIR$/src/oldGame/MenuText.java" />
+        <option value="$PROJECT_DIR$/src/oldGame/Movie.java" />
+        <option value="$PROJECT_DIR$/src/buttons/multiTranslations/CharacterClick.java" />
+        <option value="$PROJECT_DIR$/src/buttons/NyxButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/characters/NyxButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/characters/VisorButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/characters/AnarkiButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/BackCreditsButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/multiTransitions/CharacterClick.java" />
+        <option value="$PROJECT_DIR$/src/buttons/BackChooseCharacterButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/BackMovieButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/characters/DoomButton.java" />
+        <option value="$PROJECT_DIR$/src/buttons/ResumeButton.java" />
+        <option value="$PROJECT_DIR$/src/components/Button.java" />
+        <option value="$PROJECT_DIR$/src/engine/Main.java" />
+        <option value="$PROJECT_DIR$/src/components/Movie.java" />
+        <option value="$PROJECT_DIR$/src/buttons/YesExitButton.java" />
+        <option value="$PROJECT_DIR$/src/engine/MakeScreens.java" />
+        <option value="$PROJECT_DIR$/src/engine/Launcher.java" />
+        <option value="$PROJECT_DIR$/src/engine/View.java" />
+        <option value="$PROJECT_DIR$/src/engine/Menu.java" />
+        <option value="$PROJECT_DIR$/src/components/Window.java" />
+        <option value="$PROJECT_DIR$/src/library/Library.java" />
+        <option value="$PROJECT_DIR$/src/library/Dc.java" />
+        <option value="$PROJECT_DIR$/src/components/Label.java" />
+        <option value="$PROJECT_DIR$/src/buttons/CreditsButton.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="33" />
+    <option name="width" value="1593" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GameGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameGUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GameGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StartGame" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jan kabat\Desktop\Gra2\src\newGame\library" />
+      <recent name="C:\Users\Jan kabat\Desktop\Gra2\src" />
+      <recent name="D:\Java\Gra2\res\images" />
+      <recent name="D:\Java\Gra2\res\sounds" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="buttons.changeWeapon" />
+      <recent name="buttons.shot" />
+      <recent name="newGame.buttons" />
+      <recent name="newGame.engine" />
+      <recent name="newGame.library" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\Gra2\res\sounds" />
+      <recent name="D:\Java\Gra2\res\fonts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Launcher">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Gra2" />
+      <envs />
+    </configuration>
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="engine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="engine.Launcher" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Gra2" />
+      <envs />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="components.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="engine.Main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Gra2" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="oldGame.GameMenuDemo" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Gra2" />
+      <envs />
+      <RunnerSettings RunnerId="JProfiler">
+        <option name="WINDOW" value="false" />
+      </RunnerSettings>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="2" class="java.lang.String" itemvalue="Application." />
+      <item index="3" class="java.lang.String" itemvalue="Application.Launcher" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.Launcher" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a00eed00-f876-44d6-b634-e0a3a42cbb10" name="Default" comment="" />
+      <created>1514407844626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514407844626</updated>
+      <workItem from="1514407849179" duration="8641000" />
+      <workItem from="1514460631288" duration="10195000" />
+      <workItem from="1514471957374" duration="14888000" />
+      <workItem from="1514510436292" duration="1419000" />
+      <workItem from="1514551165426" duration="888000" />
+      <workItem from="1514552609955" duration="1965000" />
+      <workItem from="1514568030537" duration="428000" />
+      <workItem from="1514639979636" duration="22098000" />
+      <workItem from="1514666447472" duration="160000" />
+      <workItem from="1514711659353" duration="10886000" />
+      <workItem from="1514723007091" duration="526000" />
+      <workItem from="1514726347152" duration="715000" />
+      <workItem from="1514737213544" duration="1315000" />
+      <workItem from="1514903161727" duration="3205000" />
+      <workItem from="1514915654545" duration="936000" />
+      <workItem from="1514990618196" duration="16165000" />
+      <workItem from="1515062837747" duration="7367000" />
+      <workItem from="1515092962040" duration="4917000" />
+      <workItem from="1515098752936" duration="2526000" />
+      <workItem from="1515154581298" duration="7636000" />
+      <workItem from="1515166403718" duration="6141000" />
+      <workItem from="1515175032172" duration="5727000" />
+      <workItem from="1515199257120" duration="2009000" />
+      <workItem from="1515238885208" duration="14468000" />
+      <workItem from="1515332341911" duration="4131000" />
+      <workItem from="1515354797568" duration="3212000" />
+      <workItem from="1515398399705" duration="550000" />
+      <workItem from="1515399694451" duration="3636000" />
+      <workItem from="1515407717416" duration="2198000" />
+      <workItem from="1515410110432" duration="2349000" />
+      <workItem from="1515421299765" duration="5971000" />
+      <workItem from="1515456447484" duration="3773000" />
+      <workItem from="1515482288845" duration="1270000" />
+      <workItem from="1515489054904" duration="8031000" />
+      <workItem from="1515536139412" duration="599000" />
+      <workItem from="1515567834249" duration="7341000" />
+      <workItem from="1515576991050" duration="17847000" />
+      <workItem from="1515598856128" duration="21919000" />
+      <workItem from="1515653428611" duration="7528000" />
+      <workItem from="1515666590176" duration="4330000" />
+      <workItem from="1515681140905" duration="1204000" />
+      <workItem from="1515682474575" duration="115000" />
+      <workItem from="1515707344553" duration="1987000" />
+      <workItem from="1515766065244" duration="655000" />
+      <workItem from="1515871224606" duration="314000" />
+      <workItem from="1516004376778" duration="2119000" />
+      <workItem from="1516097301632" duration="1696000" />
+      <workItem from="1516212147003" duration="15000" />
+      <workItem from="1516447548719" duration="21000" />
+      <workItem from="1516451725008" duration="5146000" />
+      <workItem from="1516541227225" duration="1642000" />
+      <workItem from="1516557313664" duration="810000" />
+      <workItem from="1516570288036" duration="208000" />
+      <workItem from="1516630317294" duration="2714000" />
+      <workItem from="1516741852512" duration="1618000" />
+      <workItem from="1516982937052" duration="715000" />
+      <workItem from="1517157968144" duration="39000" />
+      <workItem from="1517158402173" duration="1007000" />
+      <workItem from="1517214412471" duration="1832000" />
+      <workItem from="1517221652702" duration="133000" />
+      <workItem from="1517222770050" duration="713000" />
+      <workItem from="1517580749684" duration="51000" />
+      <workItem from="1518270833486" duration="4083000" />
+      <workItem from="1519246348633" duration="512000" />
+      <workItem from="1519835144144" duration="48000" />
+      <workItem from="1528052688637" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="275895000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="33" width="1593" height="1047" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.119830325" sideWeight="0.43481717" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.21420997" sideWeight="0.5125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15738758" sideWeight="0.69992054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22067216" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15058325" sideWeight="0.9203125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2640509" sideWeight="0.4875" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.159375" sideWeight="0.5651828" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15104167" sideWeight="0.9203125" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12083333" sideWeight="0.43481717" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35208333" sideWeight="0.69992054" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11140725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.48958334" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/buttons/shot/ShotButtonVRG.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/shot/ShotButtonVRL.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/shot/ShotButtonVLG.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/changeWeapon/ChangeWeaponButtonV.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/changeWeapon/ChangeWeaponButtonN.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/changeWeapon/ChangeWeaponButtonA.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/changeWeapon/ChangeWeaponButtonD.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/startGame/StartGameButtonD.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/startGame/StartGameButtonV.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/startGame/StartGameButtonA.java" />
+    <entry file="file://$PROJECT_DIR$/src/oldGame/GameMenuDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/oldGame/MenuButton.java" />
+    <entry file="file://$PROJECT_DIR$/src/oldGame/MenuButtonChampion.java" />
+    <entry file="file://$PROJECT_DIR$/src/oldGame/MenuDesc.java" />
+    <entry file="file://$PROJECT_DIR$/src/oldGame/MenuText.java" />
+    <entry file="file://$PROJECT_DIR$/src/oldGame/Movie.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/NoExitButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/ExitButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="71" lean-forward="true" selection-start-line="6" selection-start-column="71" selection-end-line="6" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/BackGameButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/BackCreditsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/YesExitButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/MakeScreens.java" />
+    <entry file="file://$PROJECT_DIR$/src/engine/View.java" />
+    <entry file="file://$PROJECT_DIR$/src/buttons/characters/VisorButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="76" lean-forward="false" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="49" column="11" lean-forward="false" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/StartGameButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="10" lean-forward="false" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/ChangeWeaponButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="79" lean-forward="true" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/BackChooseCharacterButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="9" lean-forward="false" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/Dc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/characters/AnarkiButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/characters/DoomButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/multiTransitions/CharacterClick.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="81" lean-forward="false" selection-start-line="17" selection-start-column="81" selection-end-line="17" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/ShotButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="63" column="16" lean-forward="false" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/SoundButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/OptionsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/VideoButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.1/lib/src.zip!/javafx.graphics/javafx/scene/Parent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="692" column="35" lean-forward="false" selection-start-line="692" selection-start-column="35" selection-end-line="692" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/BackOptionsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="77" lean-forward="false" selection-start-line="25" selection-start-column="77" selection-end-line="25" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/BackMovieButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/characters/NyxButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#552#553#0" expanded="false" />
+            <element signature="e#579#580#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/ResumeButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gra2.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/library/Library.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Launcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="28" column="38" lean-forward="true" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/buttons/CreditsButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Label.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/engine/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="101" column="5" lean-forward="false" selection-start-line="101" selection-start-column="5" selection-end-line="101" selection-end-column="5" />
+          <folding>
+            <element signature="e#1626#1627#0" expanded="true" />
+            <element signature="e#1653#1654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
